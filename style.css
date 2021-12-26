@@ -1,0 +1,54 @@
+html{
+    background-color: orangered;
+}
+
+h1{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+a{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    background-color: none;
+    padding: 5px;
+}
+
+a:hover{
+    background-color: orangered;
+    color: white;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+th{
+    color:orangered;
+    font-weight: 800;
+    text-align: left;
+    background-color: black;
+}
+
+table{
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    background-color: black;
+    width: 100%;
+}
+
+#table a{
+    color:green;
+}
+
+#table a:hover{
+    color: white;
+    background-color: orangered;
+}
